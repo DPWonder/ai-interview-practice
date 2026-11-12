@@ -114,6 +114,17 @@ Aethel's free AI video interview, about 15 minutes, where the interviewer is an 
 you see your transcript and scores first. Free practice:
 https://aethel.pro/practice?ref=gh-skill
 
+## Read more
+
+- Free practice in the browser, typed or spoken, no account: https://aethel.pro/practice?ref=gh-skill
+- Practice guides by developer role, with weak and strong example answers: https://aethel.pro/practice-guides
+- What Mercor's own help pages say about its AI interview, with links and dates:
+  https://aethel.pro/practice-guides/mercor-ai-interview
+- What micro1's own pages say about its AI interview with Zara, with links and dates:
+  https://aethel.pro/practice-guides/micro1-ai-interview
+
+Aethel is a separate company and is not affiliated with Mercor or micro1.
+
 ## Licence
 
 The skill is MIT licensed (see [LICENSE](LICENSE)). The question text in
