@@ -1,0 +1,14 @@
+{
+  "name": "aethel-practice",
+  "description": "Open interview practice skills from the Aethel team.",
+  "owner": { "name": "Aethel team", "url": "https://aethel.pro" },
+  "plugins": [
+    {
+      "name": "ai-interview-practice",
+      "source": "./",
+      "description": "Practise for an AI screening interview as a developer, in English or Spanish, inside your own agent.",
+      "category": "career",
+      "tags": ["interview", "practice", "developer"]
+    }
+  ]
+}

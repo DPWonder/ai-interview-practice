@@ -1,0 +1,10 @@
+{
+  "name": "ai-interview-practice",
+  "description": "Practise for an AI screening interview as a developer: real questions by role and level, a quick check that quotes your own words, a follow-up about your case, and what to practise next. English and Spanish.",
+  "version": "1.0.0",
+  "author": { "name": "Aethel team", "url": "https://aethel.pro" },
+  "homepage": "https://github.com/DPWonder/ai-interview-practice",
+  "repository": "https://github.com/DPWonder/ai-interview-practice",
+  "license": "MIT",
+  "keywords": ["interview", "mock-interview", "ai-interview", "interview-practice", "developer", "spanish"]
+}
