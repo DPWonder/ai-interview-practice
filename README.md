@@ -5,6 +5,11 @@ It asks real interview questions for your role and level, one at a time, checks 
 simple published word rules that quote your own words back, and asks a follow-up about your case.
 English and Spanish.
 
+Use it before an AI screening interview: the kind where an AI interviewer asks about your past
+work and a written result is made from your answers, as platforms such as Mercor and micro1 run
+them. This skill is not affiliated with any of them and does not have their questions. It
+practises the general format: one real case, what you did yourself, why, and how it turned out.
+
 Roles: backend, frontend, full-stack, data and ML, DevOps and SRE, mobile. Levels: junior,
 mid-level, senior. The full question bank is readable here:
 [English](skills/ai-interview-practice/references/questions-en.md) and
