@@ -113,4 +113,5 @@ https://aethel.pro/practice?ref=gh-skill
 
 The skill is MIT licensed (see [LICENSE](LICENSE)). The question text in
 `skills/ai-interview-practice/references/questions-en.md` and `questions-es.md` is licensed
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse it with credit to Aethel.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE-questions.md](LICENSE-questions.md)): reuse it with
+credit to Aethel.
