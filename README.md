@@ -94,7 +94,8 @@ Agent:  Quick check (not a score)
 - It does not pretend to be a person or any company's interviewer. It is your own agent, running
   a practice.
 - It does not invent facts about you or rewrite your answers into things you did not say.
-- It sends nothing to Aethel or anyone else. Your answers stay in your agent's chat.
+- It sends nothing to Aethel. Your answers stay in your agent's chat, like anything else you
+  type there.
 - It does not cover coding exercises, algorithm puzzles or system design whiteboards.
 
 ## Who made it
