@@ -118,12 +118,16 @@ https://aethel.pro/practice?ref=gh-skill
 
 - Free practice in the browser, typed or spoken, no account: https://aethel.pro/practice?ref=gh-skill
 - Practice guides by developer role, with weak and strong example answers: https://aethel.pro/practice-guides
+- AI interviews by company: what each company's own pages say about its AI interview (Mercor,
+  micro1, HireVue, HackerRank, Alignerr, CodeSignal, Braintrust AIR, Apriora/Alex), each line with
+  its source and the day it was read, in English and Spanish:
+  https://github.com/DPWonder/ai-interview-prep-by-company
 - What Mercor's own help pages say about its AI interview, with links and dates:
   https://aethel.pro/practice-guides/mercor-ai-interview
 - What micro1's own pages say about its AI interview with Zara, with links and dates:
   https://aethel.pro/practice-guides/micro1-ai-interview
 
-Aethel is a separate company and is not affiliated with Mercor or micro1.
+Aethel is a separate company and is not affiliated with any company named here.
 
 ## Licence
 
